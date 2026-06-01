@@ -4,14 +4,12 @@
 This project aims to analyze mutual fund performance using historical NAV data and fund metadata. The project includes ETL pipelines, data quality validation, exploratory data analysis, SQL-based transformations, and interactive dashboards.
 
 ## Project Structure
-data/
-├── raw/
-├── processed/
-
-notebooks/
-sql/
-dashboard/
-reports/
+- data/raw
+- data/processed
+- notebooks
+- sql
+- dashboard
+- reports
 
 
 ## Technologies Used
