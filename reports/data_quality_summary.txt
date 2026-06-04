@@ -1,0 +1,26 @@
+DAY 1 DATA QUALITY SUMMARY
+
+Datasets Loaded: 10
+
+Fund Master:
+- Total records: ______
+- Missing values: ______
+- Duplicate records: ______
+
+NAV History:
+- Total records: ______
+- Missing values: ______
+- Duplicate records: ______
+
+AMFI Validation:
+- Missing AMFI codes in NAV history: ______
+
+Observations:
+- Categories and sub-categories successfully identified.
+- Risk categories successfully identified.
+- AMFI code validation completed.
+
+Recommendations:
+- Handle missing values if any.
+- Remove duplicate records if any.
+- Standardize date formats where required.

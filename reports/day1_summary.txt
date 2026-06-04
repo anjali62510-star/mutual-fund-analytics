@@ -1,0 +1,13 @@
+Day 1 Summary
+
+1. Project structure created.
+2. Required Python dependencies installed.
+3. requirements.txt generated.
+4. Live NAV data fetched from mfapi.in.
+5. NAV data saved as CSV files in data/raw.
+6. Data ingestion script created and tested.
+
+Observation:
+Only API-generated CSV files were available.
+The task references 10 provided CSV datasets, fund_master, and nav_history datasets, but these were not available in the project resources.
+The ingestion script is ready to process them once provided.
