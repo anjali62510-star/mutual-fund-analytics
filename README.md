@@ -34,7 +34,10 @@ This project aims to analyze mutual fund performance using historical NAV data a
 - Data ingestion scripts
 - Live NAV data collection from mfapi.in
 - Initial data quality framework
-
+## Day 2
+## Day 3
+## Day 4
+## Day 5
 ## Author
 
 Anjali Rajput
